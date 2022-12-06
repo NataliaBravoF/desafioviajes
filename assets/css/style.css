@@ -22,3 +22,19 @@ body {
     }
 }
 
+.mensaje {
+    height: 100px;
+}
+
+.footer-wrap {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
